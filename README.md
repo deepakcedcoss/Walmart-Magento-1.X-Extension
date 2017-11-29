@@ -1,4 +1,4 @@
-# Walmart Integration Marketplace
+# Walmart Magento 1.X Integration Marketplace
 
 [![N|Solid](https://cedcommerce.com/skin/frontend/cedcom/default/images/logo.png)](https://cedcommerce.com)
 
