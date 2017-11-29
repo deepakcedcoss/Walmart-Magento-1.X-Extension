@@ -13,6 +13,7 @@ Integration automates the critical sales operations thereby simplifying manual u
   - Retire and Re-Inject Products - If the seller no longer manufacture or don’t want to sell at Walmart, simply hibernate ( listed but not published) the proucts, also when the need arises can be instantly re-injected again. 
   - Notifications - For any change that occurs on the store –change in prices, quantity, product title or product description – you get instant notifications, and for every order placed, an e-mail is sent.
 
+    # [Learn More][l1] 
     
    [l1]: <https://cedcommerce.com/magento-extensions/walmart-magento-integration?source=github>
    
